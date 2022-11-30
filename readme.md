@@ -8,7 +8,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 ## My Progress
 
-- [x] JavaScript Drum Kit - Key events, playing audio, listening for transitionend and animationend events.
+To see Caitlin Croteau's personal progress, please visit this repo:
+[JavaScript30 - My Progress](https://github.com/caitlincroteau/javascript30-my-projects)
 
 ## Community #JavaScript30 Content
 
